@@ -1,0 +1,441 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\NB VENKATESHWARULU\Desktop\IP\Provider-Scheduling-receivingData1\Provider-Scheduling-receivingData\Android-app\Mew\app\src\main\AndroidManifest.xml:2:1-141:12
+	package
+		ADDED from C:\Users\NB VENKATESHWARULU\Desktop\IP\Provider-Scheduling-receivingData1\Provider-Scheduling-receivingData\Android-app\Mew\app\src\main\AndroidManifest.xml:3:5-40
+		INJECTED from C:\Users\NB VENKATESHWARULU\Desktop\IP\Provider-Scheduling-receivingData1\Provider-Scheduling-receivingData\Android-app\Mew\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\NB VENKATESHWARULU\Desktop\IP\Provider-Scheduling-receivingData1\Provider-Scheduling-receivingData\Android-app\Mew\app\src\main\AndroidManifest.xml:3:5-40
+		INJECTED from C:\Users\NB VENKATESHWARULU\Desktop\IP\Provider-Scheduling-receivingData1\Provider-Scheduling-receivingData\Android-app\Mew\app\src\debug\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\NB VENKATESHWARULU\Desktop\IP\Provider-Scheduling-receivingData1\Provider-Scheduling-receivingData\Android-app\Mew\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\NB VENKATESHWARULU\Desktop\IP\Provider-Scheduling-receivingData1\Provider-Scheduling-receivingData\Android-app\Mew\app\src\main\AndroidManifest.xml:2:1-141:12
+		INJECTED from C:\Users\NB VENKATESHWARULU\Desktop\IP\Provider-Scheduling-receivingData1\Provider-Scheduling-receivingData\Android-app\Mew\app\src\debug\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\NB VENKATESHWARULU\Desktop\IP\Provider-Scheduling-receivingData1\Provider-Scheduling-receivingData\Android-app\Mew\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\NB VENKATESHWARULU\Desktop\IP\Provider-Scheduling-receivingData1\Provider-Scheduling-receivingData\Android-app\Mew\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\NB VENKATESHWARULU\Desktop\IP\Provider-Scheduling-receivingData1\Provider-Scheduling-receivingData\Android-app\Mew\app\src\main\AndroidManifest.xml:2:1-141:12
+		INJECTED from C:\Users\NB VENKATESHWARULU\Desktop\IP\Provider-Scheduling-receivingData1\Provider-Scheduling-receivingData\Android-app\Mew\app\src\debug\AndroidManifest.xml
+supports-screens
+ADDED from C:\Users\NB VENKATESHWARULU\Desktop\IP\Provider-Scheduling-receivingData1\Provider-Scheduling-receivingData\Android-app\Mew\app\src\main\AndroidManifest.xml:5:5-54
+	android:xlargeScreens
+		ADDED from C:\Users\NB VENKATESHWARULU\Desktop\IP\Provider-Scheduling-receivingData1\Provider-Scheduling-receivingData\Android-app\Mew\app\src\main\AndroidManifest.xml:5:23-51
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\NB VENKATESHWARULU\Desktop\IP\Provider-Scheduling-receivingData1\Provider-Scheduling-receivingData\Android-app\Mew\app\src\main\AndroidManifest.xml:7:5-79
+MERGED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\NB VENKATESHWARULU\.android\build-cache\6c4aa73d3e3b2303bc792881436745216e8c785e\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] C:\Users\NB VENKATESHWARULU\.android\build-cache\238ed723a74e0a34eb276aee6225a3bb6da4ba6b\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\NB VENKATESHWARULU\.android\build-cache\5fbe779fbab5fa07251cb06f4d1a564336f0b637\output\AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from C:\Users\NB VENKATESHWARULU\Desktop\IP\Provider-Scheduling-receivingData1\Provider-Scheduling-receivingData\Android-app\Mew\app\src\main\AndroidManifest.xml:7:22-76
+uses-permission#android.permission.DISABLE_KEYGUARD
+ADDED from C:\Users\NB VENKATESHWARULU\Desktop\IP\Provider-Scheduling-receivingData1\Provider-Scheduling-receivingData\Android-app\Mew\app\src\main\AndroidManifest.xml:8:5-75
+	android:name
+		ADDED from C:\Users\NB VENKATESHWARULU\Desktop\IP\Provider-Scheduling-receivingData1\Provider-Scheduling-receivingData\Android-app\Mew\app\src\main\AndroidManifest.xml:8:22-72
+uses-permission#android.permission.WAKE_LOCK
+ADDED from C:\Users\NB VENKATESHWARULU\Desktop\IP\Provider-Scheduling-receivingData1\Provider-Scheduling-receivingData\Android-app\Mew\app\src\main\AndroidManifest.xml:9:5-68
+MERGED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\NB VENKATESHWARULU\.android\build-cache\6c4aa73d3e3b2303bc792881436745216e8c785e\output\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] C:\Users\NB VENKATESHWARULU\.android\build-cache\238ed723a74e0a34eb276aee6225a3bb6da4ba6b\output\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\NB VENKATESHWARULU\.android\build-cache\5fbe779fbab5fa07251cb06f4d1a564336f0b637\output\AndroidManifest.xml:21:5-67
+	android:name
+		ADDED from C:\Users\NB VENKATESHWARULU\Desktop\IP\Provider-Scheduling-receivingData1\Provider-Scheduling-receivingData\Android-app\Mew\app\src\main\AndroidManifest.xml:9:22-65
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from C:\Users\NB VENKATESHWARULU\Desktop\IP\Provider-Scheduling-receivingData1\Provider-Scheduling-receivingData\Android-app\Mew\app\src\main\AndroidManifest.xml:10:5-76
+	android:name
+		ADDED from C:\Users\NB VENKATESHWARULU\Desktop\IP\Provider-Scheduling-receivingData1\Provider-Scheduling-receivingData\Android-app\Mew\app\src\main\AndroidManifest.xml:10:22-73
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from C:\Users\NB VENKATESHWARULU\Desktop\IP\Provider-Scheduling-receivingData1\Provider-Scheduling-receivingData\Android-app\Mew\app\src\main\AndroidManifest.xml:11:5-76
+	android:name
+		ADDED from C:\Users\NB VENKATESHWARULU\Desktop\IP\Provider-Scheduling-receivingData1\Provider-Scheduling-receivingData\Android-app\Mew\app\src\main\AndroidManifest.xml:11:22-73
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\NB VENKATESHWARULU\Desktop\IP\Provider-Scheduling-receivingData1\Provider-Scheduling-receivingData\Android-app\Mew\app\src\main\AndroidManifest.xml:12:5-67
+MERGED from [com.google.firebase:firebase-crash:10.0.1] C:\Users\NB VENKATESHWARULU\.android\build-cache\8d45cc50b76f3192f22e5b806de3642181a0de5f\output\AndroidManifest.xml:18:5-66
+MERGED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\NB VENKATESHWARULU\.android\build-cache\6c4aa73d3e3b2303bc792881436745216e8c785e\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] C:\Users\NB VENKATESHWARULU\.android\build-cache\238ed723a74e0a34eb276aee6225a3bb6da4ba6b\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\NB VENKATESHWARULU\.android\build-cache\5fbe779fbab5fa07251cb06f4d1a564336f0b637\output\AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from C:\Users\NB VENKATESHWARULU\Desktop\IP\Provider-Scheduling-receivingData1\Provider-Scheduling-receivingData\Android-app\Mew\app\src\main\AndroidManifest.xml:12:22-64
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from C:\Users\NB VENKATESHWARULU\Desktop\IP\Provider-Scheduling-receivingData1\Provider-Scheduling-receivingData\Android-app\Mew\app\src\main\AndroidManifest.xml:13:5-75
+	android:name
+		ADDED from C:\Users\NB VENKATESHWARULU\Desktop\IP\Provider-Scheduling-receivingData1\Provider-Scheduling-receivingData\Android-app\Mew\app\src\main\AndroidManifest.xml:13:22-72
+uses-permission#com.android.alarm.permission.SET_ALARM
+ADDED from C:\Users\NB VENKATESHWARULU\Desktop\IP\Provider-Scheduling-receivingData1\Provider-Scheduling-receivingData\Android-app\Mew\app\src\main\AndroidManifest.xml:14:5-78
+	android:name
+		ADDED from C:\Users\NB VENKATESHWARULU\Desktop\IP\Provider-Scheduling-receivingData1\Provider-Scheduling-receivingData\Android-app\Mew\app\src\main\AndroidManifest.xml:14:22-75
+uses-permission#android.permission.VIBRATE
+ADDED from C:\Users\NB VENKATESHWARULU\Desktop\IP\Provider-Scheduling-receivingData1\Provider-Scheduling-receivingData\Android-app\Mew\app\src\main\AndroidManifest.xml:15:5-66
+	android:name
+		ADDED from C:\Users\NB VENKATESHWARULU\Desktop\IP\Provider-Scheduling-receivingData1\Provider-Scheduling-receivingData\Android-app\Mew\app\src\main\AndroidManifest.xml:15:22-63
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\NB VENKATESHWARULU\Desktop\IP\Provider-Scheduling-receivingData1\Provider-Scheduling-receivingData\Android-app\Mew\app\src\main\AndroidManifest.xml:16:5-81
+	android:name
+		ADDED from C:\Users\NB VENKATESHWARULU\Desktop\IP\Provider-Scheduling-receivingData1\Provider-Scheduling-receivingData\Android-app\Mew\app\src\main\AndroidManifest.xml:16:22-78
+uses-permission#com.google.android.gms.permission.ACTIVITY_RECOGNITION
+ADDED from C:\Users\NB VENKATESHWARULU\Desktop\IP\Provider-Scheduling-receivingData1\Provider-Scheduling-receivingData\Android-app\Mew\app\src\main\AndroidManifest.xml:17:5-94
+	android:name
+		ADDED from C:\Users\NB VENKATESHWARULU\Desktop\IP\Provider-Scheduling-receivingData1\Provider-Scheduling-receivingData\Android-app\Mew\app\src\main\AndroidManifest.xml:17:22-91
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\NB VENKATESHWARULU\Desktop\IP\Provider-Scheduling-receivingData1\Provider-Scheduling-receivingData\Android-app\Mew\app\src\main\AndroidManifest.xml:18:5-80
+	android:name
+		ADDED from C:\Users\NB VENKATESHWARULU\Desktop\IP\Provider-Scheduling-receivingData1\Provider-Scheduling-receivingData\Android-app\Mew\app\src\main\AndroidManifest.xml:18:22-77
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from C:\Users\NB VENKATESHWARULU\Desktop\IP\Provider-Scheduling-receivingData1\Provider-Scheduling-receivingData\Android-app\Mew\app\src\main\AndroidManifest.xml:19:5-71
+	android:name
+		ADDED from C:\Users\NB VENKATESHWARULU\Desktop\IP\Provider-Scheduling-receivingData1\Provider-Scheduling-receivingData\Android-app\Mew\app\src\main\AndroidManifest.xml:19:22-68
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\NB VENKATESHWARULU\Desktop\IP\Provider-Scheduling-receivingData1\Provider-Scheduling-receivingData\Android-app\Mew\app\src\main\AndroidManifest.xml:20:5-79
+	android:name
+		ADDED from C:\Users\NB VENKATESHWARULU\Desktop\IP\Provider-Scheduling-receivingData1\Provider-Scheduling-receivingData\Android-app\Mew\app\src\main\AndroidManifest.xml:20:22-76
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from C:\Users\NB VENKATESHWARULU\Desktop\IP\Provider-Scheduling-receivingData1\Provider-Scheduling-receivingData\Android-app\Mew\app\src\main\AndroidManifest.xml:21:5-73
+	android:name
+		ADDED from C:\Users\NB VENKATESHWARULU\Desktop\IP\Provider-Scheduling-receivingData1\Provider-Scheduling-receivingData\Android-app\Mew\app\src\main\AndroidManifest.xml:21:22-70
+uses-permission#android.permission.PROCESS_OUTGOING_CALLS
+ADDED from C:\Users\NB VENKATESHWARULU\Desktop\IP\Provider-Scheduling-receivingData1\Provider-Scheduling-receivingData\Android-app\Mew\app\src\main\AndroidManifest.xml:25:5-80
+	android:name
+		ADDED from C:\Users\NB VENKATESHWARULU\Desktop\IP\Provider-Scheduling-receivingData1\Provider-Scheduling-receivingData\Android-app\Mew\app\src\main\AndroidManifest.xml:25:22-78
+receiver#recruitment.iiitd.edu.implementations.MicRecord
+ADDED from C:\Users\NB VENKATESHWARULU\Desktop\IP\Provider-Scheduling-receivingData1\Provider-Scheduling-receivingData\Android-app\Mew\app\src\main\AndroidManifest.xml:27:5-32:16
+	android:name
+		ADDED from C:\Users\NB VENKATESHWARULU\Desktop\IP\Provider-Scheduling-receivingData1\Provider-Scheduling-receivingData\Android-app\Mew\app\src\main\AndroidManifest.xml:27:15-77
+intent-filter#android.intent.action.PHONE_STATE
+ADDED from C:\Users\NB VENKATESHWARULU\Desktop\IP\Provider-Scheduling-receivingData1\Provider-Scheduling-receivingData\Android-app\Mew\app\src\main\AndroidManifest.xml:28:9-31:25
+action#android.intent.action.PHONE_STATE
+ADDED from C:\Users\NB VENKATESHWARULU\Desktop\IP\Provider-Scheduling-receivingData1\Provider-Scheduling-receivingData\Android-app\Mew\app\src\main\AndroidManifest.xml:29:13-72
+	android:name
+		ADDED from C:\Users\NB VENKATESHWARULU\Desktop\IP\Provider-Scheduling-receivingData1\Provider-Scheduling-receivingData\Android-app\Mew\app\src\main\AndroidManifest.xml:29:21-69
+application
+ADDED from C:\Users\NB VENKATESHWARULU\Desktop\IP\Provider-Scheduling-receivingData1\Provider-Scheduling-receivingData\Android-app\Mew\app\src\main\AndroidManifest.xml:34:5-139:19
+MERGED from [com.google.firebase:firebase-core:10.0.1] C:\Users\NB VENKATESHWARULU\.android\build-cache\8daa5b2573231ba31156aef55669622ebfe0a494\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-crash:10.0.1] C:\Users\NB VENKATESHWARULU\.android\build-cache\8d45cc50b76f3192f22e5b806de3642181a0de5f\output\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\NB VENKATESHWARULU\.android\build-cache\6c4aa73d3e3b2303bc792881436745216e8c785e\output\AndroidManifest.xml:24:5-33:19
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] C:\Users\NB VENKATESHWARULU\.android\build-cache\238ed723a74e0a34eb276aee6225a3bb6da4ba6b\output\AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\NB VENKATESHWARULU\.android\build-cache\5fbe779fbab5fa07251cb06f4d1a564336f0b637\output\AndroidManifest.xml:28:5-50:19
+MERGED from [com.google.firebase:firebase-common:10.0.1] C:\Users\NB VENKATESHWARULU\.android\build-cache\5643acacabfdb4abe16fcd2b52a4cec65ba629ad\output\AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.android.gms:play-services-tasks:10.0.1] C:\Users\NB VENKATESHWARULU\.android\build-cache\b794aedcf3de87b42f2a16740df9c057fb494d2f\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] C:\Users\NB VENKATESHWARULU\.android\build-cache\683fbe9468f4ea7cb12e93df389d2b7c4d986bb4\output\AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:design:25.3.1] C:\Users\NB VENKATESHWARULU\.android\build-cache\accd434ea6f5f4ab387f7e0497ae86aac57ee3c2\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\NB VENKATESHWARULU\.android\build-cache\48f15ae67ade2a55844eadd15c86082ea96e20c1\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\NB VENKATESHWARULU\.android\build-cache\bc731492d5aa449224ac201623080d9ff459f877\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\NB VENKATESHWARULU\.android\build-cache\cde18adfa8cd3268a6211acf0eeaf119d8420a6b\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.1] C:\Users\NB VENKATESHWARULU\.android\build-cache\1622eda250d071b6f2007c2cd8411661f4f92302\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\NB VENKATESHWARULU\.android\build-cache\f2910aad5e0e333756c365a219ff781d6be2cfcc\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\NB VENKATESHWARULU\.android\build-cache\01695760d3ddbf9cb49c5063e95677af8fe0d930\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\NB VENKATESHWARULU\.android\build-cache\fa07c139b4489f9730c382e7b52817917f82534c\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\NB VENKATESHWARULU\.android\build-cache\7fe0632e8ed5268a962f8885cf5dfd6d62548009\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\NB VENKATESHWARULU\.android\build-cache\a573470e824201f6e105857c3f93ffc71703c809\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\NB VENKATESHWARULU\.android\build-cache\556ac215a619f26c1b8efe445a51d47589deb7ad\output\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from C:\Users\NB VENKATESHWARULU\Desktop\IP\Provider-Scheduling-receivingData1\Provider-Scheduling-receivingData\Android-app\Mew\app\src\main\AndroidManifest.xml:37:9-41
+	android:allowBackup
+		ADDED from C:\Users\NB VENKATESHWARULU\Desktop\IP\Provider-Scheduling-receivingData1\Provider-Scheduling-receivingData\Android-app\Mew\app\src\main\AndroidManifest.xml:35:9-35
+	android:icon
+		ADDED from C:\Users\NB VENKATESHWARULU\Desktop\IP\Provider-Scheduling-receivingData1\Provider-Scheduling-receivingData\Android-app\Mew\app\src\main\AndroidManifest.xml:36:9-39
+	android:theme
+		ADDED from C:\Users\NB VENKATESHWARULU\Desktop\IP\Provider-Scheduling-receivingData1\Provider-Scheduling-receivingData\Android-app\Mew\app\src\main\AndroidManifest.xml:38:9-40
+activity#recruitment.iiitd.edu.microphone_app.SplashScreen
+ADDED from C:\Users\NB VENKATESHWARULU\Desktop\IP\Provider-Scheduling-receivingData1\Provider-Scheduling-receivingData\Android-app\Mew\app\src\main\AndroidManifest.xml:39:9-48:20
+	android:screenOrientation
+		ADDED from C:\Users\NB VENKATESHWARULU\Desktop\IP\Provider-Scheduling-receivingData1\Provider-Scheduling-receivingData\Android-app\Mew\app\src\main\AndroidManifest.xml:42:13-49
+	android:label
+		ADDED from C:\Users\NB VENKATESHWARULU\Desktop\IP\Provider-Scheduling-receivingData1\Provider-Scheduling-receivingData\Android-app\Mew\app\src\main\AndroidManifest.xml:41:13-45
+	android:name
+		ADDED from C:\Users\NB VENKATESHWARULU\Desktop\IP\Provider-Scheduling-receivingData1\Provider-Scheduling-receivingData\Android-app\Mew\app\src\main\AndroidManifest.xml:40:13-77
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\NB VENKATESHWARULU\Desktop\IP\Provider-Scheduling-receivingData1\Provider-Scheduling-receivingData\Android-app\Mew\app\src\main\AndroidManifest.xml:43:13-47:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\NB VENKATESHWARULU\Desktop\IP\Provider-Scheduling-receivingData1\Provider-Scheduling-receivingData\Android-app\Mew\app\src\main\AndroidManifest.xml:44:17-69
+	android:name
+		ADDED from C:\Users\NB VENKATESHWARULU\Desktop\IP\Provider-Scheduling-receivingData1\Provider-Scheduling-receivingData\Android-app\Mew\app\src\main\AndroidManifest.xml:44:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\NB VENKATESHWARULU\Desktop\IP\Provider-Scheduling-receivingData1\Provider-Scheduling-receivingData\Android-app\Mew\app\src\main\AndroidManifest.xml:46:17-77
+	android:name
+		ADDED from C:\Users\NB VENKATESHWARULU\Desktop\IP\Provider-Scheduling-receivingData1\Provider-Scheduling-receivingData\Android-app\Mew\app\src\main\AndroidManifest.xml:46:27-74
+activity#recruitment.iiitd.edu.microphone_app.MainActivity
+ADDED from C:\Users\NB VENKATESHWARULU\Desktop\IP\Provider-Scheduling-receivingData1\Provider-Scheduling-receivingData\Android-app\Mew\app\src\main\AndroidManifest.xml:50:9-56:20
+	android:name
+		ADDED from C:\Users\NB VENKATESHWARULU\Desktop\IP\Provider-Scheduling-receivingData1\Provider-Scheduling-receivingData\Android-app\Mew\app\src\main\AndroidManifest.xml:51:13-77
+intent-filter#android.intent.action.MAIN
+ADDED from C:\Users\NB VENKATESHWARULU\Desktop\IP\Provider-Scheduling-receivingData1\Provider-Scheduling-receivingData\Android-app\Mew\app\src\main\AndroidManifest.xml:53:13-55:29
+activity#recruitment.iiitd.edu.microphone_app.ChoiceActivity
+ADDED from C:\Users\NB VENKATESHWARULU\Desktop\IP\Provider-Scheduling-receivingData1\Provider-Scheduling-receivingData\Android-app\Mew\app\src\main\AndroidManifest.xml:58:9-63:20
+	android:parentActivityName
+		ADDED from C:\Users\NB VENKATESHWARULU\Desktop\IP\Provider-Scheduling-receivingData1\Provider-Scheduling-receivingData\Android-app\Mew\app\src\main\AndroidManifest.xml:60:13-91
+	android:theme
+		ADDED from C:\Users\NB VENKATESHWARULU\Desktop\IP\Provider-Scheduling-receivingData1\Provider-Scheduling-receivingData\Android-app\Mew\app\src\main\AndroidManifest.xml:61:13-51
+	android:name
+		ADDED from C:\Users\NB VENKATESHWARULU\Desktop\IP\Provider-Scheduling-receivingData1\Provider-Scheduling-receivingData\Android-app\Mew\app\src\main\AndroidManifest.xml:59:13-79
+activity#recruitment.iiitd.edu.microphone_app.FloorActivity
+ADDED from C:\Users\NB VENKATESHWARULU\Desktop\IP\Provider-Scheduling-receivingData1\Provider-Scheduling-receivingData\Android-app\Mew\app\src\main\AndroidManifest.xml:64:9-67:20
+	android:name
+		ADDED from C:\Users\NB VENKATESHWARULU\Desktop\IP\Provider-Scheduling-receivingData1\Provider-Scheduling-receivingData\Android-app\Mew\app\src\main\AndroidManifest.xml:64:19-84
+activity#recruitment.iiitd.edu.mew.HomeScreen
+ADDED from C:\Users\NB VENKATESHWARULU\Desktop\IP\Provider-Scheduling-receivingData1\Provider-Scheduling-receivingData\Android-app\Mew\app\src\main\AndroidManifest.xml:68:9-74:20
+	android:label
+		ADDED from C:\Users\NB VENKATESHWARULU\Desktop\IP\Provider-Scheduling-receivingData1\Provider-Scheduling-receivingData\Android-app\Mew\app\src\main\AndroidManifest.xml:71:13-45
+	android:launchMode
+		ADDED from C:\Users\NB VENKATESHWARULU\Desktop\IP\Provider-Scheduling-receivingData1\Provider-Scheduling-receivingData\Android-app\Mew\app\src\main\AndroidManifest.xml:72:13-48
+	android:alwaysRetainTaskState
+		ADDED from C:\Users\NB VENKATESHWARULU\Desktop\IP\Provider-Scheduling-receivingData1\Provider-Scheduling-receivingData\Android-app\Mew\app\src\main\AndroidManifest.xml:70:13-49
+	android:name
+		ADDED from C:\Users\NB VENKATESHWARULU\Desktop\IP\Provider-Scheduling-receivingData1\Provider-Scheduling-receivingData\Android-app\Mew\app\src\main\AndroidManifest.xml:69:13-39
+receiver#recruitment.iiitd.edu.rabbitmq.SubscribeReceiver
+ADDED from C:\Users\NB VENKATESHWARULU\Desktop\IP\Provider-Scheduling-receivingData1\Provider-Scheduling-receivingData\Android-app\Mew\app\src\main\AndroidManifest.xml:77:9-84:20
+	android:enabled
+		ADDED from C:\Users\NB VENKATESHWARULU\Desktop\IP\Provider-Scheduling-receivingData1\Provider-Scheduling-receivingData\Android-app\Mew\app\src\main\AndroidManifest.xml:79:13-35
+	android:exported
+		ADDED from C:\Users\NB VENKATESHWARULU\Desktop\IP\Provider-Scheduling-receivingData1\Provider-Scheduling-receivingData\Android-app\Mew\app\src\main\AndroidManifest.xml:80:13-37
+	android:name
+		ADDED from C:\Users\NB VENKATESHWARULU\Desktop\IP\Provider-Scheduling-receivingData1\Provider-Scheduling-receivingData\Android-app\Mew\app\src\main\AndroidManifest.xml:78:13-76
+intent-filter#recruitment.iiitd.edu.amqpIntent.BROADCAST
+ADDED from C:\Users\NB VENKATESHWARULU\Desktop\IP\Provider-Scheduling-receivingData1\Provider-Scheduling-receivingData\Android-app\Mew\app\src\main\AndroidManifest.xml:81:13-83:29
+action#recruitment.iiitd.edu.amqpIntent.BROADCAST
+ADDED from C:\Users\NB VENKATESHWARULU\Desktop\IP\Provider-Scheduling-receivingData1\Provider-Scheduling-receivingData\Android-app\Mew\app\src\main\AndroidManifest.xml:82:17-85
+	android:name
+		ADDED from C:\Users\NB VENKATESHWARULU\Desktop\IP\Provider-Scheduling-receivingData1\Provider-Scheduling-receivingData\Android-app\Mew\app\src\main\AndroidManifest.xml:82:25-82
+receiver#recruitment.iiitd.edu.mew.MyAdmin
+ADDED from C:\Users\NB VENKATESHWARULU\Desktop\IP\Provider-Scheduling-receivingData1\Provider-Scheduling-receivingData\Android-app\Mew\app\src\main\AndroidManifest.xml:85:9-95:20
+	android:permission
+		ADDED from C:\Users\NB VENKATESHWARULU\Desktop\IP\Provider-Scheduling-receivingData1\Provider-Scheduling-receivingData\Android-app\Mew\app\src\main\AndroidManifest.xml:87:13-70
+	android:name
+		ADDED from C:\Users\NB VENKATESHWARULU\Desktop\IP\Provider-Scheduling-receivingData1\Provider-Scheduling-receivingData\Android-app\Mew\app\src\main\AndroidManifest.xml:86:13-36
+meta-data#android.app.device_admin
+ADDED from C:\Users\NB VENKATESHWARULU\Desktop\IP\Provider-Scheduling-receivingData1\Provider-Scheduling-receivingData\Android-app\Mew\app\src\main\AndroidManifest.xml:88:13-90:52
+	android:resource
+		ADDED from C:\Users\NB VENKATESHWARULU\Desktop\IP\Provider-Scheduling-receivingData1\Provider-Scheduling-receivingData\Android-app\Mew\app\src\main\AndroidManifest.xml:90:17-49
+	android:name
+		ADDED from C:\Users\NB VENKATESHWARULU\Desktop\IP\Provider-Scheduling-receivingData1\Provider-Scheduling-receivingData\Android-app\Mew\app\src\main\AndroidManifest.xml:89:17-56
+intent-filter#android.app.action.DEVICE_ADMIN_ENABLED
+ADDED from C:\Users\NB VENKATESHWARULU\Desktop\IP\Provider-Scheduling-receivingData1\Provider-Scheduling-receivingData\Android-app\Mew\app\src\main\AndroidManifest.xml:92:13-94:29
+action#android.app.action.DEVICE_ADMIN_ENABLED
+ADDED from C:\Users\NB VENKATESHWARULU\Desktop\IP\Provider-Scheduling-receivingData1\Provider-Scheduling-receivingData\Android-app\Mew\app\src\main\AndroidManifest.xml:93:17-82
+	android:name
+		ADDED from C:\Users\NB VENKATESHWARULU\Desktop\IP\Provider-Scheduling-receivingData1\Provider-Scheduling-receivingData\Android-app\Mew\app\src\main\AndroidManifest.xml:93:25-79
+receiver#recruitment.iiitd.edu.mew.StartScreen
+ADDED from C:\Users\NB VENKATESHWARULU\Desktop\IP\Provider-Scheduling-receivingData1\Provider-Scheduling-receivingData\Android-app\Mew\app\src\main\AndroidManifest.xml:96:9-73
+	android:enabled
+		ADDED from C:\Users\NB VENKATESHWARULU\Desktop\IP\Provider-Scheduling-receivingData1\Provider-Scheduling-receivingData\Android-app\Mew\app\src\main\AndroidManifest.xml:96:47-70
+	android:name
+		ADDED from C:\Users\NB VENKATESHWARULU\Desktop\IP\Provider-Scheduling-receivingData1\Provider-Scheduling-receivingData\Android-app\Mew\app\src\main\AndroidManifest.xml:96:19-46
+receiver#recruitment.iiitd.edu.mew.StopScreen
+ADDED from C:\Users\NB VENKATESHWARULU\Desktop\IP\Provider-Scheduling-receivingData1\Provider-Scheduling-receivingData\Android-app\Mew\app\src\main\AndroidManifest.xml:97:9-73
+	android:enabled
+		ADDED from C:\Users\NB VENKATESHWARULU\Desktop\IP\Provider-Scheduling-receivingData1\Provider-Scheduling-receivingData\Android-app\Mew\app\src\main\AndroidManifest.xml:97:47-70
+	android:name
+		ADDED from C:\Users\NB VENKATESHWARULU\Desktop\IP\Provider-Scheduling-receivingData1\Provider-Scheduling-receivingData\Android-app\Mew\app\src\main\AndroidManifest.xml:97:19-45
+service#recruitment.iiitd.edu.mew.ExtractParameters
+ADDED from C:\Users\NB VENKATESHWARULU\Desktop\IP\Provider-Scheduling-receivingData1\Provider-Scheduling-receivingData\Android-app\Mew\app\src\main\AndroidManifest.xml:99:9-101:39
+	android:enabled
+		ADDED from C:\Users\NB VENKATESHWARULU\Desktop\IP\Provider-Scheduling-receivingData1\Provider-Scheduling-receivingData\Android-app\Mew\app\src\main\AndroidManifest.xml:101:13-36
+	android:name
+		ADDED from C:\Users\NB VENKATESHWARULU\Desktop\IP\Provider-Scheduling-receivingData1\Provider-Scheduling-receivingData\Android-app\Mew\app\src\main\AndroidManifest.xml:100:13-46
+service#recruitment.iiitd.edu.mew.RunningApplications
+ADDED from C:\Users\NB VENKATESHWARULU\Desktop\IP\Provider-Scheduling-receivingData1\Provider-Scheduling-receivingData\Android-app\Mew\app\src\main\AndroidManifest.xml:102:9-80
+	android:enabled
+		ADDED from C:\Users\NB VENKATESHWARULU\Desktop\IP\Provider-Scheduling-receivingData1\Provider-Scheduling-receivingData\Android-app\Mew\app\src\main\AndroidManifest.xml:102:54-77
+	android:name
+		ADDED from C:\Users\NB VENKATESHWARULU\Desktop\IP\Provider-Scheduling-receivingData1\Provider-Scheduling-receivingData\Android-app\Mew\app\src\main\AndroidManifest.xml:102:18-53
+receiver#recruitment.iiitd.edu.mew.NetworkChangeReceiver
+ADDED from C:\Users\NB VENKATESHWARULU\Desktop\IP\Provider-Scheduling-receivingData1\Provider-Scheduling-receivingData\Android-app\Mew\app\src\main\AndroidManifest.xml:104:9-111:20
+	android:label
+		ADDED from C:\Users\NB VENKATESHWARULU\Desktop\IP\Provider-Scheduling-receivingData1\Provider-Scheduling-receivingData\Android-app\Mew\app\src\main\AndroidManifest.xml:106:13-50
+	android:name
+		ADDED from C:\Users\NB VENKATESHWARULU\Desktop\IP\Provider-Scheduling-receivingData1\Provider-Scheduling-receivingData\Android-app\Mew\app\src\main\AndroidManifest.xml:105:13-50
+intent-filter#android.net.conn.CONNECTIVITY_CHANGE+android.net.wifi.WIFI_STATE_CHANGED
+ADDED from C:\Users\NB VENKATESHWARULU\Desktop\IP\Provider-Scheduling-receivingData1\Provider-Scheduling-receivingData\Android-app\Mew\app\src\main\AndroidManifest.xml:107:13-110:29
+action#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from C:\Users\NB VENKATESHWARULU\Desktop\IP\Provider-Scheduling-receivingData1\Provider-Scheduling-receivingData\Android-app\Mew\app\src\main\AndroidManifest.xml:108:17-79
+	android:name
+		ADDED from C:\Users\NB VENKATESHWARULU\Desktop\IP\Provider-Scheduling-receivingData1\Provider-Scheduling-receivingData\Android-app\Mew\app\src\main\AndroidManifest.xml:108:25-76
+action#android.net.wifi.WIFI_STATE_CHANGED
+ADDED from C:\Users\NB VENKATESHWARULU\Desktop\IP\Provider-Scheduling-receivingData1\Provider-Scheduling-receivingData\Android-app\Mew\app\src\main\AndroidManifest.xml:109:17-78
+	android:name
+		ADDED from C:\Users\NB VENKATESHWARULU\Desktop\IP\Provider-Scheduling-receivingData1\Provider-Scheduling-receivingData\Android-app\Mew\app\src\main\AndroidManifest.xml:109:25-75
+activity#recruitment.iiitd.edu.mew.QueryForm
+ADDED from C:\Users\NB VENKATESHWARULU\Desktop\IP\Provider-Scheduling-receivingData1\Provider-Scheduling-receivingData\Android-app\Mew\app\src\main\AndroidManifest.xml:113:9-120:20
+	android:label
+		ADDED from C:\Users\NB VENKATESHWARULU\Desktop\IP\Provider-Scheduling-receivingData1\Provider-Scheduling-receivingData\Android-app\Mew\app\src\main\AndroidManifest.xml:115:13-62
+	android:parentActivityName
+		ADDED from C:\Users\NB VENKATESHWARULU\Desktop\IP\Provider-Scheduling-receivingData1\Provider-Scheduling-receivingData\Android-app\Mew\app\src\main\AndroidManifest.xml:116:13-53
+	android:name
+		ADDED from C:\Users\NB VENKATESHWARULU\Desktop\IP\Provider-Scheduling-receivingData1\Provider-Scheduling-receivingData\Android-app\Mew\app\src\main\AndroidManifest.xml:114:13-38
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from C:\Users\NB VENKATESHWARULU\Desktop\IP\Provider-Scheduling-receivingData1\Provider-Scheduling-receivingData\Android-app\Mew\app\src\main\AndroidManifest.xml:117:13-119:72
+	android:value
+		ADDED from C:\Users\NB VENKATESHWARULU\Desktop\IP\Provider-Scheduling-receivingData1\Provider-Scheduling-receivingData\Android-app\Mew\app\src\main\AndroidManifest.xml:119:17-69
+	android:name
+		ADDED from C:\Users\NB VENKATESHWARULU\Desktop\IP\Provider-Scheduling-receivingData1\Provider-Scheduling-receivingData\Android-app\Mew\app\src\main\AndroidManifest.xml:118:17-63
+activity#recruitment.iiitd.edu.mew.SettingsActivity
+ADDED from C:\Users\NB VENKATESHWARULU\Desktop\IP\Provider-Scheduling-receivingData1\Provider-Scheduling-receivingData\Android-app\Mew\app\src\main\AndroidManifest.xml:121:9-128:20
+	android:label
+		ADDED from C:\Users\NB VENKATESHWARULU\Desktop\IP\Provider-Scheduling-receivingData1\Provider-Scheduling-receivingData\Android-app\Mew\app\src\main\AndroidManifest.xml:123:13-60
+	android:parentActivityName
+		ADDED from C:\Users\NB VENKATESHWARULU\Desktop\IP\Provider-Scheduling-receivingData1\Provider-Scheduling-receivingData\Android-app\Mew\app\src\main\AndroidManifest.xml:124:13-53
+	android:name
+		ADDED from C:\Users\NB VENKATESHWARULU\Desktop\IP\Provider-Scheduling-receivingData1\Provider-Scheduling-receivingData\Android-app\Mew\app\src\main\AndroidManifest.xml:122:13-45
+service#recruitment.iiitd.edu.sensing.SensorReadings
+ADDED from C:\Users\NB VENKATESHWARULU\Desktop\IP\Provider-Scheduling-receivingData1\Provider-Scheduling-receivingData\Android-app\Mew\app\src\main\AndroidManifest.xml:130:9-80
+	android:name
+		ADDED from C:\Users\NB VENKATESHWARULU\Desktop\IP\Provider-Scheduling-receivingData1\Provider-Scheduling-receivingData\Android-app\Mew\app\src\main\AndroidManifest.xml:130:18-77
+receiver#recruitment.iiitd.edu.sensing.AlarmReceiver
+ADDED from C:\Users\NB VENKATESHWARULU\Desktop\IP\Provider-Scheduling-receivingData1\Provider-Scheduling-receivingData\Android-app\Mew\app\src\main\AndroidManifest.xml:132:9-136:20
+	android:name
+		ADDED from C:\Users\NB VENKATESHWARULU\Desktop\IP\Provider-Scheduling-receivingData1\Provider-Scheduling-receivingData\Android-app\Mew\app\src\main\AndroidManifest.xml:132:19-77
+intent-filter#recruitment.iiitd.edu.subscription.DATACOLLECTION
+ADDED from C:\Users\NB VENKATESHWARULU\Desktop\IP\Provider-Scheduling-receivingData1\Provider-Scheduling-receivingData\Android-app\Mew\app\src\main\AndroidManifest.xml:133:13-135:29
+action#recruitment.iiitd.edu.subscription.DATACOLLECTION
+ADDED from C:\Users\NB VENKATESHWARULU\Desktop\IP\Provider-Scheduling-receivingData1\Provider-Scheduling-receivingData\Android-app\Mew\app\src\main\AndroidManifest.xml:134:17-92
+	android:name
+		ADDED from C:\Users\NB VENKATESHWARULU\Desktop\IP\Provider-Scheduling-receivingData1\Provider-Scheduling-receivingData\Android-app\Mew\app\src\main\AndroidManifest.xml:134:25-89
+uses-sdk
+INJECTED from C:\Users\NB VENKATESHWARULU\Desktop\IP\Provider-Scheduling-receivingData1\Provider-Scheduling-receivingData\Android-app\Mew\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.google.firebase:firebase-core:10.0.1] C:\Users\NB VENKATESHWARULU\.android\build-cache\8daa5b2573231ba31156aef55669622ebfe0a494\output\AndroidManifest.xml:4:5-42
+MERGED from [com.google.firebase:firebase-crash:10.0.1] C:\Users\NB VENKATESHWARULU\.android\build-cache\8d45cc50b76f3192f22e5b806de3642181a0de5f\output\AndroidManifest.xml:20:5-42
+MERGED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\NB VENKATESHWARULU\.android\build-cache\6c4aa73d3e3b2303bc792881436745216e8c785e\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] C:\Users\NB VENKATESHWARULU\.android\build-cache\238ed723a74e0a34eb276aee6225a3bb6da4ba6b\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\NB VENKATESHWARULU\.android\build-cache\5fbe779fbab5fa07251cb06f4d1a564336f0b637\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-common:10.0.1] C:\Users\NB VENKATESHWARULU\.android\build-cache\5643acacabfdb4abe16fcd2b52a4cec65ba629ad\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-tasks:10.0.1] C:\Users\NB VENKATESHWARULU\.android\build-cache\b794aedcf3de87b42f2a16740df9c057fb494d2f\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] C:\Users\NB VENKATESHWARULU\.android\build-cache\683fbe9468f4ea7cb12e93df389d2b7c4d986bb4\output\AndroidManifest.xml:17:5-42
+MERGED from [pl.droidsonroids.gif:android-gif-drawable:1.1.7] C:\Users\NB VENKATESHWARULU\.android\build-cache\8f9731d1beb4e617278557799eaaf8d85d0e6e23\output\AndroidManifest.xml:6:5-8:41
+MERGED from [com.android.support:design:25.3.1] C:\Users\NB VENKATESHWARULU\.android\build-cache\accd434ea6f5f4ab387f7e0497ae86aac57ee3c2\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\NB VENKATESHWARULU\.android\build-cache\48f15ae67ade2a55844eadd15c86082ea96e20c1\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\NB VENKATESHWARULU\.android\build-cache\bc731492d5aa449224ac201623080d9ff459f877\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\NB VENKATESHWARULU\.android\build-cache\cde18adfa8cd3268a6211acf0eeaf119d8420a6b\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\NB VENKATESHWARULU\.android\build-cache\a08d1566f289b7d9ca71e387abe8078ef820cefe\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.3.1] C:\Users\NB VENKATESHWARULU\.android\build-cache\1622eda250d071b6f2007c2cd8411661f4f92302\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\NB VENKATESHWARULU\.android\build-cache\f2910aad5e0e333756c365a219ff781d6be2cfcc\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\NB VENKATESHWARULU\.android\build-cache\01695760d3ddbf9cb49c5063e95677af8fe0d930\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\NB VENKATESHWARULU\.android\build-cache\fa07c139b4489f9730c382e7b52817917f82534c\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\NB VENKATESHWARULU\.android\build-cache\7fe0632e8ed5268a962f8885cf5dfd6d62548009\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\NB VENKATESHWARULU\.android\build-cache\a573470e824201f6e105857c3f93ffc71703c809\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\NB VENKATESHWARULU\.android\build-cache\556ac215a619f26c1b8efe445a51d47589deb7ad\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.1] C:\Users\NB VENKATESHWARULU\.android\build-cache\accd434ea6f5f4ab387f7e0497ae86aac57ee3c2\output\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from C:\Users\NB VENKATESHWARULU\Desktop\IP\Provider-Scheduling-receivingData1\Provider-Scheduling-receivingData\Android-app\Mew\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\NB VENKATESHWARULU\Desktop\IP\Provider-Scheduling-receivingData1\Provider-Scheduling-receivingData\Android-app\Mew\app\src\debug\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\NB VENKATESHWARULU\Desktop\IP\Provider-Scheduling-receivingData1\Provider-Scheduling-receivingData\Android-app\Mew\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\NB VENKATESHWARULU\Desktop\IP\Provider-Scheduling-receivingData1\Provider-Scheduling-receivingData\Android-app\Mew\app\src\debug\AndroidManifest.xml
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\NB VENKATESHWARULU\.android\build-cache\6c4aa73d3e3b2303bc792881436745216e8c785e\output\AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] C:\Users\NB VENKATESHWARULU\.android\build-cache\238ed723a74e0a34eb276aee6225a3bb6da4ba6b\output\AndroidManifest.xml:25:7-26:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\NB VENKATESHWARULU\.android\build-cache\6c4aa73d3e3b2303bc792881436745216e8c785e\output\AndroidManifest.xml:25:90-112
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\NB VENKATESHWARULU\.android\build-cache\6c4aa73d3e3b2303bc792881436745216e8c785e\output\AndroidManifest.xml:25:113-137
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\NB VENKATESHWARULU\.android\build-cache\6c4aa73d3e3b2303bc792881436745216e8c785e\output\AndroidManifest.xml:25:17-89
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\NB VENKATESHWARULU\.android\build-cache\6c4aa73d3e3b2303bc792881436745216e8c785e\output\AndroidManifest.xml:27:7-31:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\NB VENKATESHWARULU\.android\build-cache\6c4aa73d3e3b2303bc792881436745216e8c785e\output\AndroidManifest.xml:27:162-184
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\NB VENKATESHWARULU\.android\build-cache\6c4aa73d3e3b2303bc792881436745216e8c785e\output\AndroidManifest.xml:27:105-161
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\NB VENKATESHWARULU\.android\build-cache\6c4aa73d3e3b2303bc792881436745216e8c785e\output\AndroidManifest.xml:27:17-104
+intent-filter#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\NB VENKATESHWARULU\.android\build-cache\6c4aa73d3e3b2303bc792881436745216e8c785e\output\AndroidManifest.xml:28:11-30:27
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\NB VENKATESHWARULU\.android\build-cache\6c4aa73d3e3b2303bc792881436745216e8c785e\output\AndroidManifest.xml:29:15-76
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\NB VENKATESHWARULU\.android\build-cache\6c4aa73d3e3b2303bc792881436745216e8c785e\output\AndroidManifest.xml:29:23-74
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\NB VENKATESHWARULU\.android\build-cache\6c4aa73d3e3b2303bc792881436745216e8c785e\output\AndroidManifest.xml:32:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] C:\Users\NB VENKATESHWARULU\.android\build-cache\238ed723a74e0a34eb276aee6225a3bb6da4ba6b\output\AndroidManifest.xml:27:7-137
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\NB VENKATESHWARULU\.android\build-cache\6c4aa73d3e3b2303bc792881436745216e8c785e\output\AndroidManifest.xml:32:88-110
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\NB VENKATESHWARULU\.android\build-cache\6c4aa73d3e3b2303bc792881436745216e8c785e\output\AndroidManifest.xml:32:111-135
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\NB VENKATESHWARULU\.android\build-cache\6c4aa73d3e3b2303bc792881436745216e8c785e\output\AndroidManifest.xml:32:16-87
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\NB VENKATESHWARULU\.android\build-cache\5fbe779fbab5fa07251cb06f4d1a564336f0b637\output\AndroidManifest.xml:22:5-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\NB VENKATESHWARULU\.android\build-cache\5fbe779fbab5fa07251cb06f4d1a564336f0b637\output\AndroidManifest.xml:22:22-79
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\NB VENKATESHWARULU\.android\build-cache\5fbe779fbab5fa07251cb06f4d1a564336f0b637\output\AndroidManifest.xml:24:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\NB VENKATESHWARULU\.android\build-cache\5fbe779fbab5fa07251cb06f4d1a564336f0b637\output\AndroidManifest.xml:24:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\NB VENKATESHWARULU\.android\build-cache\5fbe779fbab5fa07251cb06f4d1a564336f0b637\output\AndroidManifest.xml:24:17-71
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\NB VENKATESHWARULU\.android\build-cache\5fbe779fbab5fa07251cb06f4d1a564336f0b637\output\AndroidManifest.xml:26:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\NB VENKATESHWARULU\.android\build-cache\5fbe779fbab5fa07251cb06f4d1a564336f0b637\output\AndroidManifest.xml:26:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\NB VENKATESHWARULU\.android\build-cache\5fbe779fbab5fa07251cb06f4d1a564336f0b637\output\AndroidManifest.xml:30:9-36:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\NB VENKATESHWARULU\.android\build-cache\5fbe779fbab5fa07251cb06f4d1a564336f0b637\output\AndroidManifest.xml:30:85-108
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\NB VENKATESHWARULU\.android\build-cache\5fbe779fbab5fa07251cb06f4d1a564336f0b637\output\AndroidManifest.xml:30:109-169
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\NB VENKATESHWARULU\.android\build-cache\5fbe779fbab5fa07251cb06f4d1a564336f0b637\output\AndroidManifest.xml:30:19-84
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE+com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\NB VENKATESHWARULU\.android\build-cache\5fbe779fbab5fa07251cb06f4d1a564336f0b637\output\AndroidManifest.xml:31:13-35:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\NB VENKATESHWARULU\.android\build-cache\5fbe779fbab5fa07251cb06f4d1a564336f0b637\output\AndroidManifest.xml:32:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\NB VENKATESHWARULU\.android\build-cache\5fbe779fbab5fa07251cb06f4d1a564336f0b637\output\AndroidManifest.xml:32:25-78
+action#com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\NB VENKATESHWARULU\.android\build-cache\5fbe779fbab5fa07251cb06f4d1a564336f0b637\output\AndroidManifest.xml:33:17-85
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\NB VENKATESHWARULU\.android\build-cache\5fbe779fbab5fa07251cb06f4d1a564336f0b637\output\AndroidManifest.xml:33:25-83
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\NB VENKATESHWARULU\.android\build-cache\5fbe779fbab5fa07251cb06f4d1a564336f0b637\output\AndroidManifest.xml:34:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\NB VENKATESHWARULU\.android\build-cache\5fbe779fbab5fa07251cb06f4d1a564336f0b637\output\AndroidManifest.xml:34:27-58
+receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\NB VENKATESHWARULU\.android\build-cache\5fbe779fbab5fa07251cb06f4d1a564336f0b637\output\AndroidManifest.xml:40:9-119
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\NB VENKATESHWARULU\.android\build-cache\5fbe779fbab5fa07251cb06f4d1a564336f0b637\output\AndroidManifest.xml:40:93-117
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\NB VENKATESHWARULU\.android\build-cache\5fbe779fbab5fa07251cb06f4d1a564336f0b637\output\AndroidManifest.xml:40:19-92
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\NB VENKATESHWARULU\.android\build-cache\5fbe779fbab5fa07251cb06f4d1a564336f0b637\output\AndroidManifest.xml:44:9-48:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\NB VENKATESHWARULU\.android\build-cache\5fbe779fbab5fa07251cb06f4d1a564336f0b637\output\AndroidManifest.xml:44:83-106
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\NB VENKATESHWARULU\.android\build-cache\5fbe779fbab5fa07251cb06f4d1a564336f0b637\output\AndroidManifest.xml:44:18-82
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\NB VENKATESHWARULU\.android\build-cache\5fbe779fbab5fa07251cb06f4d1a564336f0b637\output\AndroidManifest.xml:45:13-47:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\NB VENKATESHWARULU\.android\build-cache\5fbe779fbab5fa07251cb06f4d1a564336f0b637\output\AndroidManifest.xml:45:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\NB VENKATESHWARULU\.android\build-cache\5fbe779fbab5fa07251cb06f4d1a564336f0b637\output\AndroidManifest.xml:46:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\NB VENKATESHWARULU\.android\build-cache\5fbe779fbab5fa07251cb06f4d1a564336f0b637\output\AndroidManifest.xml:46:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:10.0.1] C:\Users\NB VENKATESHWARULU\.android\build-cache\5643acacabfdb4abe16fcd2b52a4cec65ba629ad\output\AndroidManifest.xml:6:9-194
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:10.0.1] C:\Users\NB VENKATESHWARULU\.android\build-cache\5643acacabfdb4abe16fcd2b52a4cec65ba629ad\output\AndroidManifest.xml:6:19-78
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:10.0.1] C:\Users\NB VENKATESHWARULU\.android\build-cache\5643acacabfdb4abe16fcd2b52a4cec65ba629ad\output\AndroidManifest.xml:6:144-168
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:10.0.1] C:\Users\NB VENKATESHWARULU\.android\build-cache\5643acacabfdb4abe16fcd2b52a4cec65ba629ad\output\AndroidManifest.xml:6:169-192
+	android:name
+		ADDED from [com.google.firebase:firebase-common:10.0.1] C:\Users\NB VENKATESHWARULU\.android\build-cache\5643acacabfdb4abe16fcd2b52a4cec65ba629ad\output\AndroidManifest.xml:6:79-143
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:10.0.1] C:\Users\NB VENKATESHWARULU\.android\build-cache\683fbe9468f4ea7cb12e93df389d2b7c4d986bb4\output\AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:10.0.1] C:\Users\NB VENKATESHWARULU\.android\build-cache\683fbe9468f4ea7cb12e93df389d2b7c4d986bb4\output\AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:10.0.1] C:\Users\NB VENKATESHWARULU\.android\build-cache\683fbe9468f4ea7cb12e93df389d2b7c4d986bb4\output\AndroidManifest.xml:20:20-65
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:25.3.1] C:\Users\NB VENKATESHWARULU\.android\build-cache\accd434ea6f5f4ab387f7e0497ae86aac57ee3c2\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\NB VENKATESHWARULU\.android\build-cache\48f15ae67ade2a55844eadd15c86082ea96e20c1\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\NB VENKATESHWARULU\.android\build-cache\bc731492d5aa449224ac201623080d9ff459f877\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\NB VENKATESHWARULU\.android\build-cache\cde18adfa8cd3268a6211acf0eeaf119d8420a6b\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\NB VENKATESHWARULU\.android\build-cache\a08d1566f289b7d9ca71e387abe8078ef820cefe\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] C:\Users\NB VENKATESHWARULU\.android\build-cache\1622eda250d071b6f2007c2cd8411661f4f92302\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\NB VENKATESHWARULU\.android\build-cache\f2910aad5e0e333756c365a219ff781d6be2cfcc\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\NB VENKATESHWARULU\.android\build-cache\01695760d3ddbf9cb49c5063e95677af8fe0d930\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\NB VENKATESHWARULU\.android\build-cache\fa07c139b4489f9730c382e7b52817917f82534c\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\NB VENKATESHWARULU\.android\build-cache\7fe0632e8ed5268a962f8885cf5dfd6d62548009\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\NB VENKATESHWARULU\.android\build-cache\a573470e824201f6e105857c3f93ffc71703c809\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\NB VENKATESHWARULU\.android\build-cache\556ac215a619f26c1b8efe445a51d47589deb7ad\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:design:25.3.1] C:\Users\NB VENKATESHWARULU\.android\build-cache\accd434ea6f5f4ab387f7e0497ae86aac57ee3c2\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:design:25.3.1] C:\Users\NB VENKATESHWARULU\.android\build-cache\accd434ea6f5f4ab387f7e0497ae86aac57ee3c2\output\AndroidManifest.xml:26:9-47

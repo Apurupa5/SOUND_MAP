@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "C:\\Users\\NB VENKATESHWARULU\\Desktop\\IP\\Provider-Scheduling-receivingData1\\Provider-Scheduling-receivingData\\Android-app\\Mew\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ne\\values-ne.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 222,
+                    "endOffset": 323
+                },
+                "from": {
+                    "file": "C:\\Users\\NB VENKATESHWARULU\\.android\\build-cache\\683fbe9468f4ea7cb12e93df389d2b7c4d986bb4\\output\\res\\values-ne\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 0,
+                        "startOffset": 285,
+                        "endColumn": 222,
+                        "endOffset": 507
+                    }
+                }
+            }
+        ]
+    }
+]

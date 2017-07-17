@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:background="@drawable/second"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <recruitment.iiitd.edu.microphone_app.ZoomLayout
+        android:id="@+id/custom_relative_layout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <ImageView
+            android:id="@+id/ferrari_logo"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:src="@drawable/last_new"/>
+
+        <ImageView
+            android:id="@+id/outside_imageview"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:rotation="15"
+            android:layout_marginTop="275dp"
+            android:layout_marginLeft="175dp"
+
+
+            android:alpha="0.5"
+            android:src="@drawable/rectangle"/>
+
+
+        <ImageView
+            android:id="@+id/one_imageview"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+
+            android:layout_marginTop="257dp"
+            android:layout_marginLeft="15dp"
+
+
+            android:alpha="0.5"
+            android:src="@drawable/one"/>
+        <ImageView
+            android:id="@+id/two_imageview"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+
+            android:layout_marginTop="262dp"
+            android:layout_marginLeft="135dp"
+
+            android:rotation="1"
+            android:alpha="0.5"
+            android:src="@drawable/two"/>
+
+
+    </recruitment.iiitd.edu.microphone_app.ZoomLayout>
+</RelativeLayout>

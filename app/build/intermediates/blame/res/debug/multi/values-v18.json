@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "C:\\Users\\NB VENKATESHWARULU\\Desktop\\IP\\Provider-Scheduling-receivingData1\\Provider-Scheduling-receivingData\\Android-app\\Mew\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v18\\values-v18.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 48,
+                    "endOffset": 99
+                },
+                "from": {
+                    "file": "C:\\Users\\NB VENKATESHWARULU\\.android\\build-cache\\48f15ae67ade2a55844eadd15c86082ea96e20c1\\output\\res\\values-v18\\values-v18.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 48,
+                        "endOffset": 99
+                    }
+                }
+            }
+        ]
+    }
+]
