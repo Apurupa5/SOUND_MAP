@@ -80,7 +80,7 @@ public class MicRecord extends BroadcastReceiver implements MicListener {
             if(mRecorder!=null) {
                 recordedValues.add(time + ", " + amp + ", " + getSurface() + ", " + getAudioSourceMax() + ", " + getMaxAmplitude() + ", " +
                         getAmplitude() + ", " + getAmplitudeEMA() + ", " + getAccessPoint());
-                Log.e("Thread ","inside ");
+                Log.i("Thread ","inside ");
             }
             mHandler.postDelayed(mPollTask, POLL_INTERVAL);
         }
@@ -104,12 +104,13 @@ public class MicRecord extends BroadcastReceiver implements MicListener {
             mRecorder.stop();
             mRecorder.release();
             mRecorder = null;
-            Log.e("Stop", "inside");
+
         }
-        Log.e("Stop", "outside");
+
         mRunning = false;
     }
 
+    //Method to get nearest wifi access point
     public String getAccessPoint() {
         if (wifiManager != null) {
             WifiInfo wifiInfo = wifiManager.getConnectionInfo();
@@ -181,7 +182,7 @@ public class MicRecord extends BroadcastReceiver implements MicListener {
         mHandler.postDelayed(mPollTask, POLL_INTERVAL);
     }
 
-
+//Method to get amplitude of the microphone
 
     public double getAmplitude() {
         if (mRecorder != null) {
@@ -198,7 +199,7 @@ public class MicRecord extends BroadcastReceiver implements MicListener {
         return mEMA;
     }
 
-
+//Method to save the recorded data in csv file
     public void writeDataToFile(ArrayList<String> arrayList) {
         FileOutputStream fileOut = null;
         try {
@@ -231,6 +232,7 @@ public class MicRecord extends BroadcastReceiver implements MicListener {
         return am.getMode();
     }
 
+    //To pause data collection during a phone call
     @Override
     public void pause()
     {
@@ -238,18 +240,17 @@ public class MicRecord extends BroadcastReceiver implements MicListener {
             mRecorder.stop();
             mRecorder.release();
             mRecorder = null;
-            Log.e("Pause", "inside");
-        }
-        Log.e("Pause", "outside");
-    }
 
+        }
+
+    }
+//To resume data collection after the phone call is over.
 
     @Override
     public void resume()
     {
-        Log.e("resume","inside");
+
         if (mRecorder == null) {
-            Log.e("Start", "created");
             mRecorder = new MediaRecorder();
             mRecorder.setAudioSource(MediaRecorder.AudioSource.MIC);
             mRecorder.setOutputFormat(MediaRecorder.OutputFormat.THREE_GPP);
@@ -278,26 +279,26 @@ public class MicRecord extends BroadcastReceiver implements MicListener {
 
     }
 
+    //Mtehod to listen for phone call states
 
     @Override
     public void onReceive(Context context, Intent intent) {
         String state = intent.getStringExtra(TelephonyManager.EXTRA_STATE);
-        Log.e("Mic Record", String.valueOf(mRecorder));
+
         if(state.equals(TelephonyManager.EXTRA_STATE_RINGING)){
-            Log.e("Record","Ringing State Number");
-            Log.e("Mic Record inside", String.valueOf(mRecorder));
-            // Toast.makeText(context,"Ringing State Number is -"Toast.LENGTH_SHORT).show();
+            Log.i("Record","Ringing State");
+
         }
         if ((state.equals(TelephonyManager.EXTRA_STATE_OFFHOOK))){
-            Log.e("Mic Record inside2", String.valueOf(mRecorder));
+
             pause();
             Log.e("Record","Received state");
-            //  Toast.makeText(context,"Received State",Toast.LENGTH_SHORT).show();
+
         }
         if (state.equals(TelephonyManager.EXTRA_STATE_IDLE)){
             Log.e("Record","Idle State");
             resume();
-            //  Toast.makeText(context,"Idle State", Toast.LENGTH_SHORT).show();
+          
         }
     }
 }
