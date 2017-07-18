@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:background="@drawable/main4"
+    >
+    <FrameLayout
+        android:layout_alignParentBottom="true"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginBottom="100dp"
+        android:layout_alignParentEnd="true"
+        android:id="@+id/frameLayout2"
+        android:layout_alignParentRight="true">
+
+    <ImageView
+        android:background="#92c5e2"
+        android:layout_marginTop="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="300dp"
+        android:orientation="vertical"
+        android:alpha="0.5" />
+        <TextView
+            android:id="@+id/text1"
+            android:layout_marginTop="70dp"
+            android:textColor="#FFFFFF"
+
+            android:textSize="40dp"
+            android:text="Are you a .."
+            android:layout_gravity="center_horizontal"
+            android:layout_width="226dp"
+            android:layout_height="53dp" />
+
+        <Button
+            android:id="@+id/button1"
+            android:layout_marginTop="150dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+
+            android:text="Developer"
+            android:background="@drawable/color_button"
+            android:textColor="#FFFFFF"
+            android:layout_centerVertical="true"
+            android:layout_alignStart="@+id/img_gif"
+            android:layout_gravity="center_horizontal|top"
+            android:layout_alignLeft="@+id/img_gif" />
+
+        <Button
+        android:id="@+id/button2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="#FFFFFF"
+        android:text="  User   "
+        android:background="@drawable/color_button"
+        android:layout_weight="0.75"
+        android:layout_alignTop="@+id/button1"
+        android:layout_alignEnd="@+id/img_gif"
+            android:layout_alignParentBottom="true"
+            android:layout_marginTop="240dp"
+            android:layout_gravity="center_horizontal"
+
+            android:layout_alignRight="@+id/img_gif" />
+
+    </FrameLayout>
+
+
+    <pl.droidsonroids.gif.GifImageView
+        android:id="@+id/img_gif"
+        android:layout_width="200dp"
+        android:layout_height="100dp"
+
+        android:background="@drawable/start2"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true" />
+</RelativeLayout>

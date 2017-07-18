@@ -1,0 +1,151 @@
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+
+    tools:context="recruitment.iiitd.edu.microphone_app.OneFragment"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent">
+
+
+ <FrameLayout android:layout_width="match_parent"
+     android:layout_height="match_parent">
+    <!-- TODO: Update blank fragment layout -->
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:paddingBottom="@dimen/activity_vertical_margin"
+        android:paddingLeft="@dimen/activity_horizontal_margin"
+        android:paddingRight="@dimen/activity_horizontal_margin"
+        android:paddingTop="150dp"
+        android:background="@drawable/trial"
+        android:orientation="vertical">
+        <ImageView
+            android:background="#92c5e2"
+            android:layout_width="match_parent"
+            android:layout_height="400dp"
+            android:orientation="vertical"
+            android:alpha="0.4"
+            android:id="@+id/imageView" />
+        <AnalogClock
+            android:id="@+id/simpleAnalogClock"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:foregroundTint="@color/abc_background_cache_hint_selector_material_dark"
+
+            android:padding="40dp"
+            android:layout_marginLeft="40dp"
+
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true" />
+
+        <TextView
+            android:id="@+id/startTimeTextView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:text="Start Time"
+            android:textColor="#ffffff"
+            android:layout_marginLeft="140dp"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:layout_alignBottom="@+id/startTimeEditText"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentLeft="true" />
+
+
+        <EditText
+            android:id="@+id/startTimeEditText"
+            android:layout_width="150dp"
+            android:layout_height="wrap_content"
+
+
+            android:hint=" Select.."
+
+            android:textColor="#0b0b0b"
+            android:textColorHint="#ffffff"
+            android:textSize="20sp"
+            android:editable="false"
+            android:gravity="center"
+            android:textStyle="bold"
+            android:layout_marginLeft="320dp"
+            android:layout_below="@+id/simpleAnalogClock"
+            />
+
+
+
+        <TextView
+            android:id="@+id/endTimeTextView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="End Time"
+            android:layout_marginLeft="140dp"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:layout_alignBottom="@+id/endTimeEditText"
+            android:layout_alignParentStart="true"
+            android:textColor="#ffffff"
+            android:layout_alignParentLeft="true" />
+
+        <EditText
+            android:id="@+id/endTimeEditText"
+            android:layout_width="150dp"
+            android:layout_height="wrap_content"
+
+            android:hint="Select.. "
+
+            android:textColor="#0b0b0b"
+            android:textColorHint="#ffffff"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:layout_marginTop="200dp"
+            android:editable="false"
+            android:gravity="center"
+
+            android:layout_marginLeft="320dp"/>
+
+        <TextView
+            android:id="@+id/floorTextView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Select Floor"
+            android:textColor="#ffffff"
+            android:layout_marginLeft="140dp"
+
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:layout_marginTop="260dp"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentLeft="true" />
+
+
+
+        <Spinner
+            android:id="@+id/floorSpinner"
+            android:layout_width="120dp"
+            android:layout_height="50dp"
+            android:layout_marginLeft="330dp"
+
+            android:background="@drawable/color_button"
+            android:textColor="#ffffff"
+            android:layout_alignTop="@+id/floorTextView"
+            android:layout_alignEnd="@+id/endTimeEditText"
+            android:layout_alignRight="@+id/endTimeEditText" />
+
+
+
+        <Button
+            android:id="@+id/showMapButton"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:background="@drawable/color_button"
+            android:text="SHOW HEAT MAP"
+            android:textColor="#ffffff"
+            android:textSize="20sp"
+            android:layout_below="@+id/floorSpinner"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true" />
+
+
+
+    </RelativeLayout>
+
+ </FrameLayout>
+</ScrollView>
